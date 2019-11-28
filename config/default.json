@@ -1,0 +1,7 @@
+{
+    "port" : 9899,
+    "host" : "localhost",
+    "database" : "java",
+    "user" : "root",
+    "password" : "manager"
+}
